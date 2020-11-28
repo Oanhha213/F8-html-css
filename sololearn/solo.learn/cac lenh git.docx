@@ -1,0 +1,4 @@
+git status: kiểm tra trạng thái git
+git add tên file: thêm file vào git
+git commit -m'ghi chú cho commit': tạo commit (đóng gói)
+git push origin master: đẩy code lên github
